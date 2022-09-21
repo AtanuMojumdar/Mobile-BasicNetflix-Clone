@@ -1,0 +1,238 @@
+body{
+    margin: 0px;
+    background-color: #181818;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10px;
+    color: white;
+}
+h3{
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 10px;
+    color: white;
+}
+h5{
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 10px;
+    color: white;
+}
+p{
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+table{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14px;
+    color: grey;
+    border-spacing: 15px;
+}
+a{
+    text-decoration: none;
+}
+.fil{
+    filter: blur(5px);
+}
+.qnc{
+    position: relative;
+    color: grey;
+    left: 10px;
+}
+.head{
+    background-color: black;
+    height: 64px;
+}
+.netflix-logo{
+    margin-top: 10px;
+    height: 45px;
+}
+.btn-1{
+    background-color: red;
+    border: none;
+    color: white;
+    height: 38px;
+    width: 115px;
+    position: absolute;
+    right: 110px;
+    top: 15px;
+}
+.btn-2{
+    border: 1px;
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    height: 38px;
+    width: 90px;
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    color: white;
+}
+.btn-3{
+    color: white;
+    border: none;
+    display: block;
+    margin: 30px auto;
+    background-color: red;
+    width: 320px;
+    height: 50px;
+    font-size: 18px;
+}
+.btn-4{
+    width: 60px;
+    height: 30px;
+    border: 1px;
+    border-style: solid;
+    background-color: black;
+    color: grey;
+    border-color: white;
+    margin-left: 20px;
+}
+.but{
+    text-align: center;
+}
+.butp{
+    display: inline-block;
+    font-size: 24px;
+    width: 280px;
+    margin: auto;
+}
+.rick{
+    width: 150px;
+    margin-left: 15px;
+}
+.paradise{
+    width: 150px;
+    margin-left: 15px;
+}
+.flavours{
+    width: 150px;
+    margin-left: 15px;
+}
+.nezha{
+    width: 150px;
+    margin-left: 15px;
+}
+.disenchantment{
+    width: 150px;
+    margin-left: 15px;
+}
+.arcane{
+    width: 150px;
+    margin-left: 15px;
+}
+.finalspace{
+    width: 150px;
+    margin-left: 15px;
+}
+.scissorseven{
+    width: 150px;
+    margin-left: 15px;
+}
+.closeenough{
+    width: 150px;
+    margin-left: 15px;
+}
+.hoops{
+    width: 150px;
+    margin-left: 15px;
+}
+.iahilu{
+    width: 150px;
+    margin-left: 15px;
+}
+.cnr{
+    width: 150px;
+    margin-left: 15px;
+}
+.st{
+    width: 150px;
+    margin-left: 15px;
+}
+.peakyblinders{
+    width: 150px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+.prick{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.flavour{
+    display: inline-block;
+    width: 130px;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.pd{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 80px;
+}
+.nez{
+    display: inline-block;
+    width: 100px;
+    margin-top: 5px;
+    margin-left: 60px;
+}
+.dis{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.arc{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+.fs{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.ss{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+.ce{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.hoop{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+.ilu{
+    display: inline-block;
+    width: 130px;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.cop{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.str{
+    display: inline-block;
+    width: 130px;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.pb{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 30px;
+}
